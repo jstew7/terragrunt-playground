@@ -1,0 +1,13 @@
+#  Local .terraform directories
+**/.terraform/*
+
+#  terragrunt-cache directories
+**/.terragrunt-cache/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+*cred.json
